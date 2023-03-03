@@ -1,1 +1,1 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/wuihee)
+![](https://leetcard.jacoblin.cool/wuihee?ext=heatmap)
